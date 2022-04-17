@@ -9,10 +9,11 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Minecraft](https://img.shields.io/badge/-Minecraft-000?&logo=Minecraft)
-![Minecraft](https://img.shields.io/badge/-Discord%20Bot%20Developer-000?&logo=Discord)
+![Discord Bot Developer](https://img.shields.io/badge/-Discord%20Bot%20Developer-000?&logo=Discord)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Android](https://img.shields.io/badge/-ADB-000?&logo=Android)
 <br>
 <a href="https://socialblade.com/youtube/c/scorchchamp2">![ScorchChamp Youtube](https://img.shields.io/badge/-Dutch%20Top%2023%20Youtuber-000?&logo=Youtube)</a>
 <a href="https://www.youtube.com/channel/UC37Fy80jwUvBQVDya-xcNZQ">![Bedrock](https://img.shields.io/badge/-Bedrock%20(automated%20channel)-000?&logo=Youtube)</a>
