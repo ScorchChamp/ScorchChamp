@@ -15,9 +15,9 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&style=for-the-badge&labelColor=616161&color=333333)
 ![Android](https://img.shields.io/badge/-ADB-000?&logo=Android&style=for-the-badge&labelColor=aaaaaa&color=333333)
 <br>
-<a href="https://socialblade.com/youtube/c/scorchchamp2">![ScorchChamp Youtube](https://img.shields.io/badge/-I%20Was%20The%20Dutch%20Top%2023%20Youtuber-000?&logo=Youtube&style=flat-square&labelColor=c3312c)</a>
-<a href="https://www.youtube.com/channel/UC37Fy80jwUvBQVDya-xcNZQ">![Bedrock](https://img.shields.io/badge/-Bedrock%20(automated%20channel)-000?&logo=Youtube&style=flat-square&labelColor=c3312c)</a>
-<a href="https://www.youtube.com/channel/UCBTGa6dpn4KCFcjzPo2HiUg">![Crying Obsidian](https://img.shields.io/badge/-Crying%20Obsidian%20(automated%20channel)-000?&logo=Youtube&style=flat-square&labelColor=c3312c)</a>
+<a href="https://socialblade.com/youtube/c/scorchchamp2">![ScorchChamp Youtube](https://img.shields.io/badge/-I%20Was%20The%20Dutch%20Top%2023%20Youtuber-000?&logo=Youtube&style=for-the-badge&labelColor=c3312c)</a>
+<a href="https://www.youtube.com/channel/UC37Fy80jwUvBQVDya-xcNZQ">![Bedrock](https://img.shields.io/badge/-Bedrock%20(automated%20channel)-000?&logo=Youtube&style=for-the-badge&labelColor=c3312c)</a>
+<a href="https://www.youtube.com/channel/UCBTGa6dpn4KCFcjzPo2HiUg">![Crying Obsidian](https://img.shields.io/badge/-Crying%20Obsidian%20(automated%20channel)-000?&logo=Youtube&style=for-the-badge&labelColor=c3312c)</a>
 <br>
 <a href="https://www.youtube.com/channel/UC37Fy80jwUvBQVDya-xcNZQ">![](https://img.shields.io/youtube/channel/views/UC37Fy80jwUvBQVDya-xcNZQ?style=for-the-badge&labelColor=c3312c)</a>
 <a href="https://www.youtube.com/channel/UCBTGa6dpn4KCFcjzPo2HiUg">![](https://img.shields.io/youtube/channel/views/UCBTGa6dpn4KCFcjzPo2HiUg?style=for-the-badge&labelColor=c3312c)</a>
