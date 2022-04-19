@@ -25,6 +25,10 @@
 
 <a href="https://scorchchamp.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=scorchchamp&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorchchamp&hide_title=true&hide_border=true&layout=compact&langs_count=15&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
+##### Proud owner of ScorchAI with a highest clickrate of 10.000.000 views per week!
+##### Owner of SessionID Defuser BOT https://discord.com/invite/ZTpVXKZN68
+
+<img src="https://discordapp.com/api/guilds/927926252491378751/widget.png?style=banner2" alt="Discord Banner" width="30%"/>
   <br/>
    <a href="https://github.com/ScorchChamp"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ScorchChamp&custom_title=ScorchChamp's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
