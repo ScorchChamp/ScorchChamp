@@ -29,6 +29,10 @@
 ##### Owner of SessionID Defuser BOT https://discord.com/invite/ZTpVXKZN68
 <a href="https://discord.com/invite/ZTpVXKZN68">
 <img src="https://discordapp.com/api/guilds/927926252491378751/widget.png?style=banner2" alt="Discord Banner" width="30%"/>
+  <br>
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/329996760053317632)](https://discord.com/users/329996760053317632)  
+  
   </a>
   <br/>
    <a href="https://github.com/ScorchChamp"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ScorchChamp&custom_title=ScorchChamp's%20Contribution%20Graph&theme=react-dark" /></a>
