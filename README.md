@@ -28,8 +28,3 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/329996760053317632)](https://discord.com/users/329996760053317632)  
   
   </a>
-  <br/>
-   <a href="https://github.com/ScorchChamp"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ScorchChamp&custom_title=ScorchChamp's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<p><a href="https://ko-fi.com/scorchchamp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="scorchchamp" /></a></p><br><br>
