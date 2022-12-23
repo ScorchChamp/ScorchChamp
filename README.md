@@ -14,6 +14,8 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge&labelColor=b4b7be&color=333333)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&style=for-the-badge&labelColor=616161&color=333333)
 ![Android](https://img.shields.io/badge/-ADB-000?&logo=Android&style=for-the-badge&labelColor=aaaaaa&color=333333)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&style=for-the-badge&labelColor=aaaaaa&color=333333)
+![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=Hibernate&style=for-the-badge&labelColor=aaaaaa&color=333333)
 <br>
 
 
