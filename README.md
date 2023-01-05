@@ -27,6 +27,7 @@
 <a href="https://discord.com/invite/ZTpVXKZN68">
   <img src="https://discordapp.com/api/guilds/927926252491378751/widget.png?style=banner2" alt="Discord Banner" width="30%"/><br>
   
+</a>
+  
   [![Discord Presence](https://lanyard.cnrad.dev/api/329996760053317632)](https://discord.com/users/329996760053317632)  
   
-</a>
