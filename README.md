@@ -33,4 +33,8 @@ Working on it...
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scorchchamp&theme=gruvbox&langs_count=8)
 
+Homemade page views:
+
+![Page Views](https://counter.scorchchamp.com/counter?username=ScorchChamp)
+
 ##### Proud owner of ScorchAI with a highest clickrate of 10.000.000 views per week!
