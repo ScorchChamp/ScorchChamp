@@ -35,6 +35,6 @@ Working on it...
 
 Homemade page views:
 
-![Page Views](https://counter.scorchchamp.com/counter?username=ScorchChamp)
+![](https://counter.scorchchamp.com/counter?username=ScorchChamp)
 
 ##### Proud owner of ScorchAI with a highest clickrate of 10.000.000 views per week!
