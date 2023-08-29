@@ -27,6 +27,7 @@ Working on it...
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge&labelColor=333333&color=333333)
 ![Android](https://img.shields.io/badge/-ADB-000?&logo=Android&style=for-the-badge&labelColor=333333&color=333333)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&style=for-the-badge&labelColor=333333&color=333333)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=Snowflake&style=for-the-badge&labelColor=333333&color=333333)
 <br>
 
 ![Scorchchamp's stats](https://github-readme-stats.vercel.app/api?username=scorchchamp&show_icons=true&theme=gruvbox)
