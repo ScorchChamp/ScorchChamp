@@ -18,16 +18,15 @@ Advanced
 Intermediate
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge&labelColor=333333&color=333333)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&style=for-the-badge&labelColor=333333&color=333333)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&style=for-the-badge&labelColor=333333&color=333333)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=Hibernate&style=for-the-badge&labelColor=333333&color=333333)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge&labelColor=333333&color=333333)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=Snowflake&style=for-the-badge&labelColor=333333&color=333333)
+![Matillion](https://img.shields.io/badge/-Matillion-000?&logo=Matillion&logoColor=0f0&style=for-the-badge&labelColor=333333&color=333333)
 
 Working on it...
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge&labelColor=333333&color=333333)
 ![Android](https://img.shields.io/badge/-ADB-000?&logo=Android&style=for-the-badge&labelColor=333333&color=333333)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&style=for-the-badge&labelColor=333333&color=333333)
-![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=Snowflake&style=for-the-badge&labelColor=333333&color=333333)
 <br>
 
 ![Scorchchamp's stats](https://github-readme-stats.vercel.app/api?username=scorchchamp&show_icons=true&theme=gruvbox)
